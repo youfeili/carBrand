@@ -6,5 +6,6 @@ Honda: Honda Motor Co.
 Hyundai: Hyundai Motor Group
 Infiniti: Renault-Nissan-Mitsubishi Alliance
 Mazda: Mazda Motor Corp.
+Lexus: Toyota Motor Corp.
 
 Mazda is my favorite car brand at this time.
