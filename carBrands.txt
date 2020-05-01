@@ -1,4 +1,5 @@
 Brand: Parent Company
+Shoes
 
 Audi: Volkswagen Group
 BMW: BMW Group
@@ -8,5 +9,6 @@ Infiniti: Renault-Nissan-Mitsubishi Alliance
 Mazda: Mazda Motor Corp.
 Lexus: Toyota Motor Corp.
 Mercedes-Benz: Daimler AG
+Nike
 
 Mazda is my favorite car brand at this time.
